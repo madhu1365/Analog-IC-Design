@@ -101,10 +101,18 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 -  **Unity-Gain Bandwidth**: 1 MHz  
 -  **Pole = $1 MHz/10^6 = 1~Hz$
 
-**AFE analysis of mic**
+### AFE analysis of mic**
+
 
 
 ![image alt](https://github.com/madhu1365/Analog-IC-Design/blob/cad9a2dd1842dc3dd40a67e2558981b64220d19f/Fig-d2-1-mic-analysis.png)
+---
+
+### xschem circuit of mic
+
+
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/0b16fec7c75def5617f47a1646de8ac67a79da84/mic_ckt.png)
+
 ---
 
 ## 🚀 Project Highlights
