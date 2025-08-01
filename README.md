@@ -1,4 +1,4 @@
-<img width="2159" height="2289" alt="Fig-d2-1-mic-analysis" src="https://github.com/user-attachments/assets/c5ec13e5-c0fb-41ba-be6d-864c74a0469c" /># Analog-IC-Design
+# Analog-IC-Design
 # 🎓 Summer Internship Summary: Design of Analog ICs for System Applications
 
 
@@ -102,9 +102,9 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 -  **Pole = $1 MHz/10^6 = 1~Hz$
 
 **AFE analysis of mic**
--  ![Mic Analysis](figures/Fig-d2-1-mic-analysis.png)
 
 
+![image alt](
 ---
 
 ## 🚀 Project Highlights
