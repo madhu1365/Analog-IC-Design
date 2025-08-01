@@ -104,7 +104,7 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 **AFE analysis of mic**
 
 
-![image alt](
+![image alt](https://github.com/madhu1365/Analog-IC-Design/blob/cad9a2dd1842dc3dd40a67e2558981b64220d19f/Fig-d2-1-mic-analysis.png)
 ---
 
 ## 🚀 Project Highlights
