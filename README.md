@@ -64,6 +64,7 @@
 # 🎤 USB-MIDI Microphone Interface System
 
 Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microphone module, an analog front-end amplifier using the OPA344 op-amp, and an Arduino-based microcontroller to digitize and transmit MIDI signals over USB.
+![image alt]()
 
 ---
 
