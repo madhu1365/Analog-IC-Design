@@ -132,7 +132,7 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 
 ## 1. High Pass Filter
 ![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/ee120c9cca470124126ba1082a672daf4cd97421/hf.png)
-![image_alt]
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/c0cf865461ea0a7b345988df5bc4367b4b7bea4b/hfop.png)
 ---
 
 ## 2.Transient Analysis
