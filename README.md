@@ -137,7 +137,7 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 
 ## 2.Transient Analysis
 
-![image_alt]
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/7d9f95dfbb3058af1210f849704d377270b6ae95/transip.png)
 ![image_alt]
 ---
 ## 3. Diode Analysis
