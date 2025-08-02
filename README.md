@@ -142,7 +142,7 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 ---
 ## 3. Diode Analysis
 
-![image_alt]
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/ddcff3bb48eeb7f2eb0f8d2c6a11605f40674de2/diodeip.png)
 ![image_alt]
 
 
