@@ -125,7 +125,7 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 ---
 ### High-Pass Circuit
 
-![image_alt]
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/8b4e641ce4364cf87d2e5e1586d40dc43f4a980e/i4.jpg)
 ---
 
 # NGSPICE simulations
