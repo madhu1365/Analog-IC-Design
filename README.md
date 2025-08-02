@@ -117,21 +117,16 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 ### Mictest
 
 
-
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/f00281a3ab2d1b520fd8caac0fd59eda90bdea04/mictest1.png)
 
 ### Current Mirror
+
 ![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/46c38bb084742a8217534daf018f5eb2560478e3/currentmirror.png)
 ---
 
 
 
-![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/0b16fec7c75def5617f47a1646de8ac67a79da84/mic_ckt.png)
 
----
-
-## 🚀 Project Highlights
-
-- **Goal**: Capture analog audio signals using a MEMS mic, condition them with an op-amp-based preamplifier, and convert them into digital MIDI message.
 
 
 
