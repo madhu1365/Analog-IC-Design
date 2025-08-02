@@ -108,9 +108,10 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 ![image alt](https://github.com/madhu1365/Analog-IC-Design/blob/cad9a2dd1842dc3dd40a67e2558981b64220d19f/Fig-d2-1-mic-analysis.png)
 ---
 
-### xschem circuit of mic
+### Thevenin Eqivalent of mic
 
-
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/e8e92b60461a5b4e898bee261719f636d813901e/ip.png)
+![image_alt](
 ![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/0b16fec7c75def5617f47a1646de8ac67a79da84/mic_ckt.png)
 
 ---
