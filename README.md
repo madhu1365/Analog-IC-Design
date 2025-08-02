@@ -1,6 +1,7 @@
 # Analog-IC-Design
 # 🎓 Summer Internship Summary: Design of Analog ICs for System Applications
-
+This repository documents the journey of the course ,focused on building a system-level understanding of analog integrated circuits through hands-on design. The primary objective of this course was to design and implement a plug-and-play USB-MIDI Microphone using industry-grade tools and methodologies.
+Throughout this internship, we explored the fundamental theory and practical design of analog circuits, from device-level physics to full system integration. Key components included preamplifier design, MOSFET modeling and analog building block development (e.g., current mirrors, differential amplifiers).
 
 
 ##  Course Outcomes
@@ -143,10 +144,11 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 ## 3. Diode Analysis
 
 ![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/ddcff3bb48eeb7f2eb0f8d2c6a11605f40674de2/diodeip.png)
-![image_alt]
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/e1dd04932b463ed7ec5d82c1fbfb1f91f2a1912a/diodeop.png)
 
 
 ---
 
-
+## Conclusion
+This internship provided a complete pipeline of analog IC design — from theoretical derivation to schematic capture, simulation, layout, and verification. By designing a real-world USB-MIDI Microphone system, we gained a deep understanding of analog signal chains, design trade-offs, and CMOS circuit behavior.
 
