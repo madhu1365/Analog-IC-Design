@@ -123,13 +123,27 @@ Design and analysis of a USB-MIDI Microphone System that utilizes a MEMS microph
 
 ![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/46c38bb084742a8217534daf018f5eb2560478e3/currentmirror.png)
 ---
+### High-Pass Circuit
 
+![image_alt]
+---
 
+# NGSPICE simulations
 
+## 1. High Pass Filter
+![image_alt](https://github.com/madhu1365/Analog-IC-Design/blob/ee120c9cca470124126ba1082a672daf4cd97421/hf.png)
+![image_alt]
+---
 
+## 2.Transient Analysis
 
+![image_alt]
+![image_alt]
+---
+## 3. Diode Analysis
 
-
+![image_alt]
+![image_alt]
 
 
 ---
